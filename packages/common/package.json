@@ -1,7 +1,7 @@
 {
   "name": "common",
   "scripts": {
-    "build": "yarn tsc -w"
+    "build": "yarn tsc"
   },
   "devDependencies": {
     "ts-node": "^8.10.2",
