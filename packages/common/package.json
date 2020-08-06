@@ -1,0 +1,13 @@
+{
+  "name": "common",
+  "scripts": {
+    "build": "yarn tsc -w"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
