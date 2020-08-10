@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac767f83-5267-4420-a864-de9e478a45bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.pnp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/arg-npm-4.1.3-1748b966a8-81b3b40b15.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/buffer-from-npm-1.1.1-22917b8ed8-540ceb79c4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/diff-npm-4.0.2-73133c7102-81b5cd7ddd.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/make-error-npm-1.3.6-ccb85d9458-2c780bab84.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/source-map-npm-0.6.1-1a3621db16-8647829a06.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/source-map-support-npm-0.5.19-65b33ae61e-59d4efaae9.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/ts-node-npm-8.10.2-b4fe5a56b0-cd6e023e07.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/typescript-npm-3.9.7-47ffbad2e0-10848a9c35.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarn/cache/yn-npm-3.1.1-8ad4259784-bff63b8056.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarnrc.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/common/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/common/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ft5kjBUA7ZebFdS76CYzyPOViL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.54" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac767f83-5267-4420-a864-de9e478a45bd" name="Default Changelist" comment="" />
+      <created>1597024693417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597024693417</updated>
+      <workItem from="1597024694552" duration="1105000" />
+      <workItem from="1597026031207" duration="232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1079" y="530" key="#Usage_Scope" timestamp="1597026202525">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1079" y="530" key="#Usage_Scope/0.0.2560.1400@0.0.2560.1400" timestamp="1597026202525" />
+    <state width="2539" height="394" key="GridCell.Tab.0.bottom" timestamp="1597026007156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597026007156" />
+    <state width="2539" height="394" key="GridCell.Tab.0.center" timestamp="1597026007156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="394" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597026007156" />
+    <state width="2539" height="394" key="GridCell.Tab.0.left" timestamp="1597026007156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="394" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597026007156" />
+    <state width="2539" height="394" key="GridCell.Tab.0.right" timestamp="1597026007156">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="394" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597026007156" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1597026203904">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1597026203904" />
+  </component>
+</project>

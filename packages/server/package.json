@@ -1,0 +1,12 @@
+{
+  "name": "@delhivery/hermes-server",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "gamma",
+    "@delhivery/hermes-monorepo": "workspace:.",
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "typescript": "^3.9.7"
+  }
+}

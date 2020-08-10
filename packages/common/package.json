@@ -1,11 +1,11 @@
 {
-  "name": "common",
+  "name": "@delhivery/hermes-common",
   "scripts": {
     "build": "yarn tsc"
   },
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "monorepo": "workspace:0.0.0"
+    "@delhivery/hermes-monorepo": "workspace:0.0.0",
+    "dotenv": "^8.2.0"
   },
   "devDependencies": {
     "@types/node": "^14.0.27",
